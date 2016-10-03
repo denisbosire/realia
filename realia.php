@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Realia
+ * Plugin Name: Realia-master
  * Version: 1.0.5
  * Description: A complete real estate solution for WordPress. For more information visit the <a href="https://thepixeltribe.com/template/real-estate/">real estate website</a>.
  * Author: Pragmatic Mates / Denis Bosire
